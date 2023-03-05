@@ -1,0 +1,6 @@
+[submodule "cd0385-exercise-files"]
+	path = cd0385-exercise-files
+	url = https://github.com/udacity/cd0385-exercise-files
+[submodule "cd0385-project-starter"]
+	path = cd0385-project-starter
+	url = https://github.com/udacity/cd0385-project-starter

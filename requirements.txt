@@ -1,0 +1,13 @@
+mxnet
+pandas
+wheel
+numpy
+scipy
+scikit-learn
+Cython
+vowpalwabbit
+lightgbm
+xgboost
+autogluon
+
+
